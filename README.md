@@ -1,6 +1,7 @@
 <div align="center">
   <h3>🌟 채연이의 PCCE 스터디 공간 🌟</h3>
   <p>여기는 <strong> PCCE 시험</strong> 준비 과정을 담은 공간입니다.<br>시험을 준비하면서 해결한 문제 풀이와 공부한 내용들을 정리해두었습니다.</p>
+  <p>내용은 PCCE_1 Branch를 확인해보시길 바랍니다.</p>
 </div>
 
 ---
